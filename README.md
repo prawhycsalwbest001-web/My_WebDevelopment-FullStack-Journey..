@@ -16,4 +16,4 @@ Also it reflects how much efforts i put and how much i have to do in career. I a
 
 7.CSS Flag Project - https://prawhycsalwbest001-web.github.io/My_WebDevelopment-FullStack-Journey../7.3_CSS_Flag_Project/
 
-8.4_Web_Design_Agency_Project - https://prawhycsalwbest001-web.github.io/My_WebDevelopment-FullStack-Journey../8.4_Web_Design_Agency_Project/
+8.Web Design Agency Project - https://prawhycsalwbest001-web.github.io/My_WebDevelopment-FullStack-Journey../8.4_Web_Design_Agency_Project/
