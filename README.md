@@ -20,4 +20,4 @@ Also it reflects how much efforts i put and how much i have to do in career. I a
 
 9.Pricing Table - https://prawhycsalwbest001-web.github.io/My_WebDevelopment-FullStack-Journey../Pricing_table/
 
-Mondrian Project - https://prawhycsalwbest001-web.github.io/My_WebDevelopment-FullStack-Journey../10.3_Mondrian_Project/
+10.Mondrian Project - https://prawhycsalwbest001-web.github.io/My_WebDevelopment-FullStack-Journey../10.3_Mondrian_Project/
