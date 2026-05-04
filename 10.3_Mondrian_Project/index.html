@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mondrian Project</title>
+  <style>
+    /* 
+    Write your CSS here 
+    Gap Colour: #000
+    White: #F0F1EC
+    Red: #E72F24
+    Black: #232629
+    Blue: #004592
+    Yellow: #F9D01E
+
+    For dimensions, see dimensions.png image.
+    HINT: Remember you can't change the properties of grid lines.
+    But grid lines are transparent!
+    */
+    body{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    .container{
+      height: 748px;
+      width: 748px;
+      display: grid;
+      grid-template-columns: 320px 198px 153px 50px;
+      grid-template-rows: 414px 130px 155px 20px;
+      background-color:#000 ;
+      gap: 9px;
+      /* display: flexbox;
+      justify-content: center;
+      align-items: center; */
+     
+    }
+    .White1{
+      background-color: #F0F1EC;
+      grid-area: 1/2/2/5;
+      
+    }
+    .White2{
+      background-color: #F0F1EC;
+      grid-area: 2/1/4/2;
+    }
+    .White3{
+      background-color: #F0F1EC;
+      grid-area: 4/1/5/2;
+    }
+    .White4{
+      background-color: #F0F1EC;
+      grid-area: 4/1/5/2;
+    }
+    .White5{
+      background-color: #F0F1EC;
+      grid-area: 3/4/5/5;
+    }
+    .Red{
+      grid-area: 1/1/2/2;
+      background-color: #E72F24;
+    }
+
+    .Blue{
+      background-color: #004592 ;
+      grid-area: 2/4/3/5;
+    }
+    .Yellow{
+      background-color: #F9D01E;
+      grid-area: 4/2/5/3;
+    }
+    .Black{
+      background-color: #232629 ;
+      grid-area: 4/3/5/4;
+    }
+  </style>
+</head>
+
+<body>
+  <!-- Write your HTML here -->
+   <div class="container">
+     <div class="White1"></div>
+     <div class="White2"></div>
+     <div class="White3"></div>
+     <div class="White4"></div>
+     <div class="White5"></div>
+     <div class="Red"></div>
+     <div class="Blue"></div>
+     <div class="Yellow"></div>
+     <div class="Black"></div>
+   </div>
+</body>
+
+</html>
