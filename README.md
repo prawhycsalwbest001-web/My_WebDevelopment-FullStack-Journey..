@@ -23,3 +23,5 @@ Also it reflects how much efforts i put and how much i have to do in career. I a
 10.Mondrian Project - https://prawhycsalwbest001-web.github.io/My_WebDevelopment-FullStack-Journey../10.3_Mondrian_Project/
 
 11.TinDog Project - https://prawhycsalwbest001-web.github.io/My_WebDevelopment-FullStack-Journey../11.3_TinDog_Project/
+
+12.2ndPersonal Website - https://prawhycsalwbest001-web.github.io/My_WebDevelopment-FullStack-Journey../2ndPersonal_Website/
