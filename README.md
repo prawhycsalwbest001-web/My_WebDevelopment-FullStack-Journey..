@@ -31,3 +31,5 @@ Also it reflects how much efforts i put and how much i have to do in career. I a
 14.Drum Kit - https://prawhycsalwbest001-web.github.io/My_WebDevelopment-FullStack-Journey../Drum_Kit_Completed/
 
 15.Simon Game Challenge Completed - https://prawhycsalwbest001-web.github.io/My_WebDevelopment-FullStack-Journey../Simon_Game_Challenge_Completed/
+
+16.QR Code Project - https://prawhycsalwbest001-web.github.io/My_WebDevelopment-FullStack-Journey../QR_Code_Project/
