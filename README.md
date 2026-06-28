@@ -1,4 +1,4 @@
-#Web Development Journey..
+<img width="1536" height="864" alt="image" src="https://github.com/user-attachments/assets/7376d635-2b47-4860-a843-a8454154a068" />#Web Development Journey..
 I started my tech career from web development. This is my complete journey which is full of ups and downs but learning is the only priority.
 Also it reflects how much efforts i put and how much i have to do in career. I am really happy when i go through this repository.
 
@@ -33,3 +33,5 @@ Also it reflects how much efforts i put and how much i have to do in career. I a
 15.Simon Game Challenge Completed - https://prawhycsalwbest001-web.github.io/My_WebDevelopment-FullStack-Journey../Simon_Game_Challenge_Completed/
 
 16.QR Code Project - https://prawhycsalwbest001-web.github.io/My_WebDevelopment-FullStack-Journey../QR_Code_Project/
+
+17.Secrets Project - https://prawhycsalwbest001-web.github.io/My_WebDevelopment-FullStack-Journey../Secrets_Project/
